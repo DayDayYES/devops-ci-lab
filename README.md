@@ -90,4 +90,3 @@ git push -u origin main
 第一周只盯住一件事：让 CI 跑起来，并能看懂失败原因。
 
 每天练 30 到 60 分钟即可。不要急着背工具名，先形成肌肉记忆：改代码、跑测试、提交、看流水线、修失败。
-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
